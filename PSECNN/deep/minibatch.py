@@ -6,7 +6,7 @@ import scipy.sparse as sp
 
 from ..utility import preprocessing
 
-np.random.seed(123)
+np.random.seed(122)
 
 
 class EdgeMinibatchIterator(object):
